@@ -1,4 +1,4 @@
-# DataScience
+# Data-Science
 Mini projet sciences de données
 ---
 Implémenter dans le langage de votre choix (python par exemple) un descripteur
